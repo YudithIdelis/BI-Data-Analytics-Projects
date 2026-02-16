@@ -34,7 +34,7 @@ I am currently completing the TripleTen Business Intelligence and Data Analytics
 
 ## 📊 Projects
 
-- [Sprint 0: Manhattan Rental Market Analysis](sprint-0-manhattan-rental-analysis) <sub><i>Dec. 17, 2025</i></sub>
+- [Sprint 1: Manhattan Rental Market Analysis](ManhattanRentalMarketAnalysis) <sub><i>Dec. 17, 2025</i></sub>
   
 ### 📌 Portfolio Status
 This portfolio is actively expanding as I continue developing my Business Intelligence skill set and completing advanced analytics projects.
