@@ -1,4 +1,4 @@
-## Sprint 0 - Intro to Data Analysis
+## Sprint 1 - Intro to Data Analysis
 **Skills Developed**
 
 - Data Cleaning and Transformation  
@@ -9,7 +9,7 @@
 - Business Insight Communication  
 
 
-## 📊 Project 0: Manhattan Rental Market Analysis
+## 📊 Manhattan Rental Market Analysis
 In this project, I analyzed a dataset of Manhattan short-term rental listings to support data-driven decision-making for pricing and market positioning. I was tasked with answering the following business questions:
 
 - Which listings generate the highest estimated annual revenue?  
