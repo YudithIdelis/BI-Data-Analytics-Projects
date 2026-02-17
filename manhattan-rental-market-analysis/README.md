@@ -23,7 +23,3 @@ To answer these questions, I cleaned and structured the raw dataset, developed a
 
 - Excel (Pivot Tables, Aggregations, Calculated Fields)  
 - Data Cleaning and Validation  
-
-📌 **Portfolio Status**
-This portfolio is actively growing as I complete new analytics projects and refine my technical skill set.  
-**Next upload expected:** February 18, 2026.
