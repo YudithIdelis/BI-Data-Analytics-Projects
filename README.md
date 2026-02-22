@@ -38,4 +38,4 @@ I am currently completing the TripleTen Business Intelligence and Data Analytics
   
 ### 📌 Portfolio Status
 This portfolio is actively expanding as I continue developing my Business Intelligence skill set and completing advanced analytics projects.
-**Next project upload:** February 18, 2026
+**Next project upload:** February 27, 2026
