@@ -35,7 +35,8 @@ I am currently completing the TripleTen Business Intelligence and Data Analytics
 ## 📊 Projects
 
 - [Sprint 1: Manhattan Rental Market Analysis](manhattan-rental-market-analysis) <sub><i>Dec. 17, 2025</i></sub>
+- [Sprint 3: E-Commerce Conversion Funnel & Cohort Retention Analysis](e-commerce-conversion-funnel-and-cohort-retention) <sub><i>Feb. 3, 2026</i></sub>
   
 ### 📌 Portfolio Status
 This portfolio is actively expanding as I continue developing my Business Intelligence skill set and completing advanced analytics projects.
-**Next project upload:** February 27, 2026
+**Next project upload:** March 19, 2026
