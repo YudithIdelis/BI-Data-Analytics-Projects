@@ -2,7 +2,7 @@
 
 Welcome! This repository serves as a working portfolio of analytics projects demonstrating my ability to transform raw data into actionable business insights. My work focuses on revenue analysis, user behavior, market segmentation, and performance optimization. Each project reflects real-world business questions and highlights my approach to data cleaning, modeling, and insight communication.
 
-I am currently completing the TripleTen Business Intelligence and Data Analytics program, where I am building advanced skills in Excel, SQL, data visualization, and business analysis. Please see a list of core program competancies and projects I've completed below. 
+I am currently completing the TripleTen Business Intelligence and Data Analytics program, where I am building advanced skills in Excel, SQL, data visualization, and business analysis. Please see a list of core program competencies and projects I've completed below. 
 
 **Data Preparation & Management**
 - Data Cleaning and Transformation  
